@@ -1,2 +1,2 @@
-# react-use-fectch
-Custom hook to fetch data 
+# react-use
+React custom hooks 
